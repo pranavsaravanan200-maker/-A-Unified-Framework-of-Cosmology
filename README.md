@@ -4,7 +4,7 @@
 **Author:** Pranav Saravanan V.N 
 Grade 6 Student - Manchester International School - Coimbatore & Independent Researcher in Theoretical Physics.
 
-**Official Website:** https://google.com
+
 **Official Academic Record (Zenodo):** https://zenodo.org/records/20757479
 
 **Abstract:** 
